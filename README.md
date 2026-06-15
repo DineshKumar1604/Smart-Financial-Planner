@@ -1,6 +1,6 @@
 # Smart SIP Planner
 
-<<<<<<< HEAD
+
 **Build Wealth. Beat Inflation. Reach Your Goals.**
 
 Advanced SIP calculator with inflation adjustment, LTCG tax estimation, step-up SIP planning, and goal-based investment planning. Built for Indian investors who want the complete picture — not misleading headline numbers.
@@ -134,19 +134,6 @@ public/
 
 ---
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/smart-sip-planner.git
-```
-
-Navigate to the project:
-
-```bash
-cd smart-sip-planner
-```
 
 Install dependencies:
 
@@ -162,7 +149,8 @@ npm run dev
 ```
 
 <<<<<<< HEAD
-Open [http://localhost:3000](http://localhost:3000).
+**WEBSITE:
+**Open https://smart-financial-planner-gamma.vercel.app/wealth
 
 ### Build
 
