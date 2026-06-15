@@ -5,7 +5,7 @@
 
 Advanced SIP calculator with inflation adjustment, LTCG tax estimation, step-up SIP planning, and goal-based investment planning. Built for Indian investors who want the complete picture — not misleading headline numbers.
 
-![Smart SIP Planner](public/og-image.png)
+![Smart SIP Planner](https://smart-financial-planner-gamma.vercel.app/wealth)
 
 ## Features
 
